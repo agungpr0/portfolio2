@@ -1,0 +1,36 @@
+body {
+  font-family: 'Quicksand', Sans-Serif;
+}
+.container {
+  width: 100%;
+}
+.jumbotron {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  background-color: #edeff1;
+}
+#projects {
+  background-color: #edeff1;
+}
+.card {
+  transition: 0.4s;
+}
+.card:hover {
+  box-shadow: 0 5px 10px #000;
+  transform: translateY(-10px);
+}
+.box {
+  border: 1px solid black;
+}
+.btn:hover {
+  background-color: #00177a;
+}
+.black {
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  height: 70px;
+}
